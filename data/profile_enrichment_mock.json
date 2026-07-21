@@ -1,0 +1,125 @@
+[
+  {
+    "full_name": "Анна — капсульный гардероб (mock)",
+    "biography": "Вымышленный fashion-профиль: капсулы, примерки и повседневные сочетания.",
+    "followers_count": 28400,
+    "following_count": 412,
+    "posts_count": 386,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "https://example.com/mock-capsule",
+    "profile_image_url": "https://example.com/images/mock-capsule.jpg",
+    "recent_posts": [
+      {
+        "url": "https://example.com/posts/mock-capsule-1",
+        "type": "reel",
+        "caption": "Три спокойных образа для офиса #капсула #женскаямода",
+        "hashtags": ["капсула", "женскаямода"],
+        "likesCount": 2180,
+        "commentsCount": 96,
+        "timestamp": "2026-07-18T09:30:00+00:00",
+        "displayUrl": "https://example.com/images/mock-capsule-1.jpg",
+        "videoUrl": "https://example.com/videos/mock-capsule-1.mp4",
+        "accessibilityCaption": "Вымышленная съёмка трёх офисных образов"
+      },
+      {
+        "url": "https://example.com/posts/mock-capsule-2",
+        "type": "carousel",
+        "caption": "Как сочетать базовую юбку пятью способами #стилизация",
+        "hashtags": ["стилизация"],
+        "likesCount": 1760,
+        "commentsCount": 71,
+        "timestamp": "2026-07-14T12:00:00+00:00",
+        "displayUrl": "https://example.com/images/mock-capsule-2.jpg",
+        "videoUrl": null,
+        "accessibilityCaption": "Вымышленная карусель с вариантами стилизации"
+      },
+      {
+        "url": "https://example.com/posts/mock-capsule-3",
+        "type": "image",
+        "caption": "Повседневный комплект в естественном свете #образдня",
+        "hashtags": ["образдня"],
+        "likesCount": 1495,
+        "commentsCount": 54,
+        "timestamp": "2026-07-10T08:15:00+00:00",
+        "displayUrl": "https://example.com/images/mock-capsule-3.jpg",
+        "videoUrl": null,
+        "accessibilityCaption": "Вымышленный повседневный образ"
+      }
+    ]
+  },
+  {
+    "full_name": "Марина — честные примерки (mock)",
+    "biography": "Вымышленный профиль с обзорами посадки и покупок одежды на маркетплейсах.",
+    "followers_count": 19750,
+    "following_count": 286,
+    "posts_count": 241,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": null,
+    "profile_image_url": "https://example.com/images/mock-fitting.jpg",
+    "recent_posts": [
+      {
+        "url": "https://example.com/posts/mock-fitting-1",
+        "type": "reel",
+        "caption": "Честная примерка двух комплектов #примерка #одежда",
+        "hashtags": ["примерка", "одежда"],
+        "likesCount": 2014,
+        "commentsCount": 138,
+        "timestamp": "2026-07-19T15:10:00+00:00",
+        "displayUrl": "https://example.com/images/mock-fitting-1.jpg",
+        "videoUrl": "https://example.com/videos/mock-fitting-1.mp4",
+        "accessibilityCaption": "Вымышленная примерка двух комплектов"
+      },
+      {
+        "url": "https://example.com/posts/mock-fitting-2",
+        "type": "carousel",
+        "caption": "Детали посадки и сочетания вещей #обзор",
+        "hashtags": ["обзор"],
+        "likesCount": 1328,
+        "commentsCount": 89,
+        "timestamp": "2026-07-13T11:40:00+00:00",
+        "displayUrl": "https://example.com/images/mock-fitting-2.jpg",
+        "videoUrl": null,
+        "accessibilityCaption": "Вымышленная подборка деталей одежды"
+      }
+    ]
+  },
+  {
+    "full_name": "Елена — офисный стиль (mock)",
+    "biography": "Вымышленный профиль о практичных образах для работы и города.",
+    "followers_count": 34200,
+    "following_count": 351,
+    "posts_count": 429,
+    "is_verified": false,
+    "is_private": false,
+    "external_url": "https://example.com/mock-office",
+    "profile_image_url": "https://example.com/images/mock-office.jpg",
+    "recent_posts": [
+      {
+        "url": "https://example.com/posts/mock-office-1",
+        "type": "reel",
+        "caption": "Один жакет — четыре рабочих сочетания #офисныйстиль",
+        "hashtags": ["офисныйстиль"],
+        "likesCount": 2450,
+        "commentsCount": 112,
+        "timestamp": "2026-07-20T07:45:00+00:00",
+        "displayUrl": "https://example.com/images/mock-office-1.jpg",
+        "videoUrl": "https://example.com/videos/mock-office-1.mp4",
+        "accessibilityCaption": "Вымышленный ролик с офисными сочетаниями"
+      },
+      {
+        "url": "https://example.com/posts/mock-office-2",
+        "type": "image",
+        "caption": "Светлый образ для летнего рабочего дня #женскаямода",
+        "hashtags": ["женскаямода"],
+        "likesCount": 1890,
+        "commentsCount": 73,
+        "timestamp": "2026-07-16T10:20:00+00:00",
+        "displayUrl": "https://example.com/images/mock-office-2.jpg",
+        "videoUrl": null,
+        "accessibilityCaption": "Вымышленный светлый офисный образ"
+      }
+    ]
+  }
+]

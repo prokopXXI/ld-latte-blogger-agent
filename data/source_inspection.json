@@ -1,0 +1,25 @@
+{
+  "source_url": "https://docs.google.com/spreadsheets/d/1J1HtHP-CMQ8skFOuFtspu2GhmSzeWPcehmrAK-P6gR4/edit",
+  "sheet_gid": 0,
+  "row_count": 34,
+  "original_columns": [
+    "column_1",
+    "column_2"
+  ],
+  "detected_mapping": {
+    "profile_url": "column_2"
+  },
+  "unmapped_columns": [
+    "column_1"
+  ],
+  "missing_required_fields": [
+    "name"
+  ],
+  "rows_with_valid_urls": 33,
+  "rows_without_urls": 1,
+  "platform_distribution": {
+    "instagram": 33,
+    "unknown": 1
+  },
+  "inspection_timestamp": "2026-07-21T13:13:32.142376+00:00"
+}

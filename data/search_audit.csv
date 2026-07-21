@@ -1,0 +1,9 @@
+url,normalized_url,source_query,source_title,data_confidence,reason
+https://example.com/city_capsule_maria,https://example.com/city_capsule_maria,женская мода капсульный гардероб stories доступный ценовой сегмент блогер,Мария Городская капсула,1.0,accepted
+https://example.com/office_looks_alina,https://example.com/office_looks_alina,сочетание вещей женская одежда доступный ценовой сегмент YouTube Shorts,Алина про офисные образы,1.0,accepted
+https://example.com/marketplace_fitting,https://example.com/marketplace_fitting,повседневные образы женщины 21–44 лет fashion-блог Telegram,Катя Находки и примерки,1.0,accepted
+https://example.com/mom_everyday_style,https://example.com/mom_everyday_style,повседневные образы женщины 21–44 лет fashion-блог Telegram,Юлия Стиль на каждый день,1.0,accepted
+https://example.com/luxury_mood_daria,https://example.com/luxury_mood_daria,fashion-блогер женская мода Instagram,Дарья Luxury Mood,1.0,below_min_score
+https://example.com/beauty_more_olga,https://example.com/beauty_more_olga,fashion-блогер женская мода Instagram,Ольга Beauty and More,1.0,below_min_score
+https://example.com/sport_shape_irina,https://example.com/sport_shape_irina,блогер капсульный гардероб reels YouTube Shorts,Ирина Спорт и форма,1.0,below_min_score
+https://example.com/trend_sale_feed,https://example.com/trend_sale_feed,повседневные образы женщины 21–44 лет fashion-блог Telegram,Тренды и скидки,1.0,below_min_score
